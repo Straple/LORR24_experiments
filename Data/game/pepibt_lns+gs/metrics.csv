@@ -1,0 +1,11 @@
+id;algo name;agents num;steps num;num task finished;throughput;avg step time
+0;pepibt_lns+gs;1000;5000;10561;2.1122;951
+1;pepibt_lns+gs;2000;5000;20822;4.1644;953
+2;pepibt_lns+gs;3000;5000;14355;2.871;954
+3;pepibt_lns+gs;4000;5000;14116;2.8232;954
+4;pepibt_lns+gs;5000;5000;14795;2.959;954
+5;pepibt_lns+gs;6000;5000;14332;2.8664;955
+6;pepibt_lns+gs;7000;5000;13534;2.7068;957
+7;pepibt_lns+gs;8000;5000;13507;2.7014;960
+8;pepibt_lns+gs;9000;5000;13633;2.7266;963
+9;pepibt_lns+gs;10000;5000;13917;2.7834;965

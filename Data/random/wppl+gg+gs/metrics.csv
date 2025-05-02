@@ -1,0 +1,9 @@
+id;algo name;agents num;steps num;num task finished;throughput;avg step time
+0;wppl+gg+gs;100;1000;2160;2.16;958
+1;wppl+gg+gs;200;1000;4393;4.393;956
+2;wppl+gg+gs;300;1000;5245;5.245;956
+3;wppl+gg+gs;400;1000;5581;5.581;956
+4;wppl+gg+gs;500;1000;5441;5.441;956
+5;wppl+gg+gs;600;1000;4624;4.624;956
+6;wppl+gg+gs;700;1000;3165;3.165;957
+7;wppl+gg+gs;800;1000;1502;1.502;956

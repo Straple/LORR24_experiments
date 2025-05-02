@@ -1,0 +1,11 @@
+id;algo name;agents num;steps num;num task finished;throughput;avg step time
+0;pibt+gg+gs;1000;5000;10242;2.0484;3
+1;pibt+gg+gs;2000;5000;11310;2.262;14
+2;pibt+gg+gs;3000;5000;11868;2.3736;24
+3;pibt+gg+gs;4000;5000;12221;2.4442;42
+4;pibt+gg+gs;5000;5000;12334;2.4668;53
+5;pibt+gg+gs;6000;5000;12737;2.5474;71
+6;pibt+gg+gs;7000;5000;12584;2.5168;99
+7;pibt+gg+gs;8000;5000;12853;2.5706;124
+8;pibt+gg+gs;9000;5000;12791;2.5582;155
+9;pibt+gg+gs;10000;5000;12945;2.589;213
